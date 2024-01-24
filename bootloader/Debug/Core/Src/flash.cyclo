@@ -1,0 +1,8 @@
+../Core/Src/flash.c:6:6:EEPROM_init	2
+../Core/Src/flash.c:11:6:Flash_Lock	1
+../Core/Src/flash.c:16:6:Flash_Unlock	1
+../Core/Src/flash.c:21:6:Flash_Erase	3
+../Core/Src/flash.c:33:6:EEP_write	1
+../Core/Src/flash.c:38:10:EEP_read	1
+../Core/Src/flash.c:43:10:Flash_read	1
+../Core/Src/flash.c:50:6:EEP_commit	4

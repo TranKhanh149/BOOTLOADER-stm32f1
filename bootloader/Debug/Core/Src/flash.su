@@ -1,0 +1,8 @@
+../Core/Src/flash.c:6:6:EEPROM_init	24	static
+../Core/Src/flash.c:11:6:Flash_Lock	8	static
+../Core/Src/flash.c:16:6:Flash_Unlock	8	static
+../Core/Src/flash.c:21:6:Flash_Erase	16	static
+../Core/Src/flash.c:33:6:EEP_write	16	static
+../Core/Src/flash.c:38:10:EEP_read	16	static
+../Core/Src/flash.c:43:10:Flash_read	24	static
+../Core/Src/flash.c:50:6:EEP_commit	16	static

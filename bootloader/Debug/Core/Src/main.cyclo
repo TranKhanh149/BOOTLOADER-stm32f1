@@ -1,0 +1,8 @@
+../Core/Src/main.c:70:6:Erase_PAGE	3
+../Core/Src/main.c:82:10:F_read	1
+../Core/Src/main.c:87:6:Write_PAGE	6
+../Core/Src/main.c:120:6:clear_buffer	2
+../Core/Src/main.c:124:6:HAL_UART_RxCpltCallback	11
+../Core/Src/main.c:193:5:main	2
+../Core/Src/main.c:269:6:SystemClock_Config	3
+../Core/Src/main.c:312:6:Error_Handler	1
